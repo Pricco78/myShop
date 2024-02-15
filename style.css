@@ -1,0 +1,72 @@
+
+body {
+    background-color: #52575D;
+}
+.div1 {
+    padding: 0;
+    margin-top: 0;
+    background-color: #D8D9DA !important;
+}
+.div1 a {
+    text-decoration: none;
+}
+.navbar {
+    background-color: #272829 !important;
+}
+.two {
+    background-color: #DFD8C8;
+    border-radius: 6px;
+    margin-top: 125px !important;
+}
+.foot {
+    background-color: #272829;
+}
+.pricelist {
+    text-shadow: 2px 2px 4px black;
+    font-size: 40px;
+    font-family: 'Zen Loop', cursive;
+    color: #DFD8C8;
+}
+.qrcode{
+    height: 200px;
+    text-align: center;
+}
+.priceqr{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.pList{
+}
+.qrPhoto{
+    padding-right: 150px;
+}
+.cardtitle{
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+.carousel-item{
+    height: 26rem;
+}
+.overlay-image{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-position: center;
+    background-size: cover;
+    opacity: 8;
+}
+.trim h1{
+    color: gold;
+    font-family: 'Zen Loop', cursive;
+    text-shadow: 2px 2px 2px black !important;
+}
+.photoDiv{
+    display: flex;
+}
+.foot span{
+    color: #D8D9DA !important;
+}
