@@ -27,6 +27,10 @@ body {
     font-family: 'Zen Loop', cursive;
     color: #DFD8C8;
 }
+
+.word-space{
+    margin-right: 10px;
+}
 .qrcode{
     height: 200px;
     text-align: center;
