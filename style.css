@@ -27,6 +27,11 @@ body {
     font-family: 'Zen Loop', cursive;
     color: #DFD8C8;
 }
+.qrPhoto h1{
+    color: #D8D9DA;
+    text-decoration: none !important;
+    padding-right: 150px;
+}
 
 .word-space{
     margin-right: 10px;
