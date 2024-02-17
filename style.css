@@ -40,10 +40,8 @@ body {
     justify-content: space-evenly;
     align-items: center;
 }
-.pList{
-}
-.qrPhoto{
-    padding-right: 150px;
+.qrPhoto a{
+    text-decoration: none;
 }
 .cardtitle{
     display: flex;
