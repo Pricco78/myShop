@@ -78,11 +78,51 @@ body {
     color: #D8D9DA !important;
 }
 @media (max-width: 991px) {
-    #navbarsExample08{
+    #navbarsExample08 {
         font-size: 75px;
         font-family: 'Zen Loop', cursive;
     }
-    .navbar-toggler-icon{
-        padding: 50px;
+    .navbar-toggler-icon {
+        padding: 35px;
+    }
+    .pricelist {
+        text-shadow: 2px 2px 4px black;
+        font-size: 80px;
+        font-family: 'Zen Loop', cursive;
+        color: #DFD8C8;
+        text-align: center;
+    }
+    .priceqr {
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 100px;
+    }
+    .qrPhoto h1 {
+        color: #D8D9DA;
+        text-decoration: underline !important;
+        padding-right: 150px;
+    }
+    .two p {
+        font-size: 35px;
+        text-align: center;
+    }
+    .two .pic {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .div1 h1 {
+        font-size: 93px;
+    }
+    .feet{
+        height: 100px;
+    }
+    .foot svg{
+        width: 75px;
+        height: 75px;
+        padding-bottom: 15px;
+    }
+    .foot span{
+        font-size: 25px;
     }
 }
