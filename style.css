@@ -74,3 +74,12 @@ body {
 .foot span{
     color: #D8D9DA !important;
 }
+@media (max-width: 991px) {
+    #navbarsExample08{
+        font-size: 75px;
+        font-family: 'Zen Loop', cursive;
+    }
+    .navbar-toggler-icon{
+        padding: 50px;
+    }
+}
