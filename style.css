@@ -90,7 +90,7 @@ body {
         font-size: 80px;
         font-family: 'Zen Loop', cursive;
         color: #DFD8C8;
-        text-align: center;
+        text-align: left;
     }
     .priceqr {
         display: flex;
