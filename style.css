@@ -106,6 +106,9 @@ body {
         font-size: 35px;
         text-align: center;
     }
+    .two h1{
+        text-align: center;
+    }
     .two .pic {
         display: flex;
         justify-content: center;
