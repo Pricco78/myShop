@@ -23,10 +23,11 @@ body {
 .pricelist {
     text-shadow: 2px 2px 4px black;
     font-size: 35px;
-    font-family: 'Zen Loop', cursive;
-    color: #DFD8C8;
+    font-family: "Dosis", sans-serif !important;
+    color: #D8D9DA;
     width: 75%;
 }
+
 .qrPhoto h1{
     color: #D8D9DA;
     text-decoration: none !important;
@@ -86,11 +87,15 @@ body {
         padding: 35px;
     }
     .pricelist {
-        text-shadow: 2px 2px 4px black;
-        font-size: 3rem;
-        font-family: 'Zen Loop', cursive;
+        text-shadow: 2px 2px 4px #272829;
+        font-size: 4rem;
         color: #DFD8C8;
         text-align: left;
+        font-family: none;
+        width: 100%;
+    }
+    .pList{
+        width: 100%;
     }
     .priceqr {
         display: flex;
